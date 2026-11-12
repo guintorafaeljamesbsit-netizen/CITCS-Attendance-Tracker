@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "825338350607",
+    "project_id": "citcs-attendance-tracker",
+    "storage_bucket": "citcs-attendance-tracker.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825338350607:android:0f2a768df02bd4c59fa77a",
+        "android_client_info": {
+          "package_name": "com.example.citcsattendancetracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeL_e6WXwMJuYMcJa-_f6kTB_iSfXS1v0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
